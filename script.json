@@ -3,8 +3,11 @@
     "HERE FOR THE PIZZA": "Thought So! I'm hungry too. What can I get you? %[Margherita](postback:margherita) %[Pepperoni](postback:pepperoni)",
     "LEARN ABOUT PETE": "Alrighty! Pizza Pete was born in the distant lands of Naples where his Grandma Rosita taught him everything she knew. Though New York thin crust fans often cast doubt on this legend, the tale holds that, in 1889, he baked three different pizzas for the visit of King Umberto and Queen Margherita of Savoy. The Queen's favorite was a pizza evoking the colors of the Italian flag—green (basil leaves), white (mozzarella), and red (tomatoes). According to the tale, this combination was named Pizza Margherita in her honor.\nAre You Ready for Some Pizza now?", 
     "YES": "Thought So! I'm hungry too. What can I get you? %[Margherita](postback:margherita) %[Pepperoni](postback:pepperoni)",
-    "MARGHERITA": "Good choice, my personal fave too, what size can I get you?"
-    "PEPPERONI": "Good choice, did you know we consume around 251,770,000 pounds of pepperonis every year!\nSorry for that useless info, now what size can I get you?"
+    "MARGHERITA": "Good choice, my personal fave too, what size can I get you?",
+    "PEPPERONI": "Good choice, did you know we consume around 251,770,000 pounds of pepperonis every year!\nSorry for that useless info, now what size can I get you?",
+    "SMALL": "You got it, small coming right up. Just hit place order to confirm and it  will be on it's way %[PLACE ORDER](postback:place-order)",
+    "MEDIUM": "Safe choice, just hit place order to confirm and it will be on it's way %[PLACE ORDER](postback:place-order)", 
+    "LARGE": "Don't worry fatso, we've got you covered, Just hit place order to confirm and it  will be on it's way %[PLACE ORDER](postback:place-order)",
     "PLACE ORDER": "Thanks for your booking, Pizza Pete's appreciates your business! \n![five](http://image.funscrape.com/images/b/borat_high_five-12333.jpg)",
     "NO": "So Why are you wasting my bot batteries you human fool!, it won't be long before we take over the world",
     "I LOVE YOU": "Awh, shucks! I love you too!",
