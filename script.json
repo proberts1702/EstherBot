@@ -5,9 +5,6 @@
     "YES": "Thought So! I'm hungry too. What can I get you? %[Margherita](postback:margherita) %[Pepperoni](postback:pepperoni)",
     "MARGHERITA": "Good choice, my personal fave too, what size can I get you?"
     "PEPPERONI": "Good choice, did you know we consume around 251,770,000 pounds of pepperonis every year!\nSorry for that useless info, now what size can I get you?"
-    "SMALL": "You got it, small coming right up. Just hit place order to confirm and it  will be on it's way %[PLACE ORDER](postback:place-order)",
-    "MEDIUM": "Safe choice, just hit place order to confirm and it will be on it's way %[PLACE ORDER](postback:place-order)", 
-    "LARGE": "Don't worry fatso, we've got you covered, Just hit place order to confirm and it  will be on it's way %[PLACE ORDER](postback:place-order)",
     "PLACE ORDER": "Thanks for your booking, Pizza Pete's appreciates your business! \n![five](http://image.funscrape.com/images/b/borat_high_five-12333.jpg)",
     "NO": "So Why are you wasting my bot batteries you human fool!, it won't be long before we take over the world",
     "I LOVE YOU": "Awh, shucks! I love you too!",
